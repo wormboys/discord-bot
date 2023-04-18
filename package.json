@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot",
+  "version": "0.0.1",
+  "description": "A discord bot",
+  "main": "app.js",
+  "author": "Callum Kloos",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord-interactions": "^3.3.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "nodemon": "^2.0.22"
+  }
+}
